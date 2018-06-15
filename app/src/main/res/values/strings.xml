@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTestApp</string>
+    <string name="ecn">Enter country Name</string>
+    <string name="hint">Enter your country Name:</string>
+</resources>
